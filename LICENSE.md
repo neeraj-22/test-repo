@@ -1,1 +1,1 @@
-def
+define
